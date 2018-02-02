@@ -1,0 +1,2 @@
+"","H","Gini","AUC","AUCH","KS","MER","MWL","Spec.Sens95","Sens.Spec95","ER","Sens","Spec","Precision","Recall","TPR","FPR","F","Youden","TP","FP","TN","FN","Accuracy","TotalTime"
+"randomForest",0.003,0.007,0.503,0.513,0.018,0.487,0.491,0.042,0.068,0.502,0.062,0.952,0.572,0.062,0.062,0.048,0.112,0.014,95,71,1399,1435,49.8,116.690000000001
